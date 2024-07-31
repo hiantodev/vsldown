@@ -1,2 +1,5 @@
 python-telegram-bot
 yt-dlp
+mega
+requests
+tenacity
